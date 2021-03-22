@@ -17,9 +17,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-lg-5 col-md-8 col-sm-10 col-xs-12  full-screen md-h-650px sm-h-500px d-flex flex-column justify-content-center padding-8-rem-tb">
-                        <h1 class="alt-font font-weight-600 title-large text-extra-dark-gray letter-spacing-minus-4px margin-4-half-rem-bottom sm-letter-spacing-minus-1-half xs-w-65 contenido_espanol">Nuestra filosofía se basa en la mejor estrategia de marketing de la historia: NOS IMPORTA</h1>
+                        <h1 class="alt-font font-weight-600 title-large text-extra-dark-gray letter-spacing-minus-4px margin-4-half-rem-bottom sm-letter-spacing-minus-1-half xs-w-100 contenido_espanol">Nuestra filosofía se basa en la mejor estrategia de marketing de la historia: NOS IMPORTA</h1>
                         <a href="contact-us-classic.html" class="btn btn-extra-large btn-expand-ltr text-extra-dark-gray btn-rounded align-self-start font-weight-600 contenido_espanol">Comienza ahora<span class="bg-white"></span></a>
-                        <h1 class="alt-font font-weight-600 title-large text-extra-dark-gray letter-spacing-minus-4px margin-4-half-rem-bottom sm-letter-spacing-minus-1-half xs-w-65 contenido_ingles">Our philosophy is based on the best marketing strategy ever: WE CARE</h1>
+                        <h1 class="alt-font font-weight-600 title-large text-extra-dark-gray letter-spacing-minus-4px margin-4-half-rem-bottom sm-letter-spacing-minus-1-half xs-w-100 contenido_ingles">Our philosophy is based on the best marketing strategy ever: WE CARE</h1>
                         <a href="contact-us-classic.html" class="btn btn-extra-large btn-expand-ltr text-extra-dark-gray btn-rounded align-self-start font-weight-600 contenido_ingles">Get started now<span class="bg-white"></span></a>
                     </div>
                 </div>
