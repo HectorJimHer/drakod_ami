@@ -57,7 +57,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-12 filter-content">
-                        <ul class="portfolio-colorful portfolio-wrapper grid grid-loading grid-4col xl-grid-4col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-extra-large text-center" data-opacity="0.9" data-backgroundcolor="#58bc4b,#d9a026,#813ea9,#82bc13,#214bdf,#e28e1a,#04c05c,#e52d8c,#029bd3,#e77345,#0575c4,#e2731a,">
+                        <ul class="portfolio-colorful portfolio-wrapper grid grid-loading grid-4col xl-grid-4col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-extra-large text-center" data-opacity="0.9" data-backgroundcolor="#3c3c3b,#3c3c3b,#3c3c3b,#3c3c3b,#3c3c3b,#3c3c3b,#3c3c3b,#3c3c3b,#3c3c3b,#3c3c3b,#3c3c3b,#3c3c3b,">
                             <li class="grid-sizer"></li>
                             <!-- start portfolio item -->
                             <li class="grid-item wow animate__fadeIn">
