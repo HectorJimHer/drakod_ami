@@ -19,10 +19,10 @@
         <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
         <meta name="description" content="Litho is a clean and modern design, BootStrap 4 responsive, business and portfolio multipurpose HTML5 template with 36+ ready homepage demos.">
         <!-- favicon icon -->
-        <link rel="shortcut icon" href="personalizado/images/favicon.png">
-        <link rel="apple-touch-icon" href="personalizado/images/apple-touch-icon-57x57.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="personalizado/images/apple-touch-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="personalizado/images/apple-touch-icon-114x114.png">
+        <link rel="shortcut icon" href="personalizado/images/favicon-logo.png">
+        <link rel="apple-touch-icon" href="personalizado/images/favicon-logo.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="personalizado/images/favicon-logo.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="personalizado/images/favicon-logo.png">
         <!-- style sheets and font icons  -->
         <link rel="stylesheet" type="text/css" href="personalizado/css/font-icons.min.css">
         <link rel="stylesheet" type="text/css" href="personalizado/css/theme-vendors.min.css">
